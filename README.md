@@ -1,4 +1,4 @@
-# BUPT_CS_CoputerNetwork
+# BUPT_CS_ComputerNetwork
 北邮计算机学院计网课设速通版  
   
 实现了基础的dns服务器功能，包括本地dns列表查询、远程递归查询  
